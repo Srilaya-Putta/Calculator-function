@@ -1,0 +1,9 @@
+class calculator{
+public static void main(string args[]){
+int a,b;
+a=10,b=15;
+system.out.println("Addition:",a+b);
+system.out.println("Subtraction:",a-b);
+system.out.println("Multiplication:",a+b);
+}
+}
